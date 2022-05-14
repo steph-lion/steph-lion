@@ -1,7 +1,7 @@
-Hi 👋 My name is Stefano Leone
+Stefano Leone :crown:
 ==============================
 
-Software Engineer
+Software Engineer :computer:
 -----------------
 
 Coding since 17, got a Computer Science degree at 22. Flutter addicted. Back-end developing is where I feel most comfortable, but Front-end developing is where my creativity gets maxed. Mastering Typescript, React, NodeJS. Born to this world to be remembered.
